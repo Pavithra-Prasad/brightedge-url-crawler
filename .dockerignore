@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.git/
+.vscode/
+*.pyc
+.pytest_cache/
+.env
+.DS_Store
+design_notes.md
+notes_for_design_doc.md
+DESIGN.md
+POC_PLAN.md
+README.md
