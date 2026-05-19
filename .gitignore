@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.DS_Store
+.idea/
+
+# Environment
+.env
+
+# Notes (kept local, not for repo)
+design_notes.md
+notes_for_design_doc.md

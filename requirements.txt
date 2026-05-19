@@ -1,0 +1,17 @@
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Async HTTP client
+httpx==0.28.1
+
+# HTML parsing
+beautifulsoup4==4.13.3
+lxml==5.3.1
+
+# Keyword extraction
+yake==0.4.8
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.3
