@@ -4,8 +4,8 @@ A service that takes a URL as input, fetches the page, and extracts structured m
 
 ## Live Demo
 
-- **API**: `https://YOUR_CLOUD_RUN_URL` *(placeholder — update after deploy)*
-- **Interactive docs**: `https://YOUR_CLOUD_RUN_URL/docs`
+- **API**: `https://brightedge-crawler-773180407845.us-central1.run.app`
+- **Interactive docs**: https://brightedge-crawler-773180407845.us-central1.run.app/docs
 
 ## Stack
 
@@ -19,7 +19,7 @@ A service that takes a URL as input, fetches the page, and extracts structured m
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/brightedge-url-crawler.git
+   git clone https://github.com/Pavithra-Prasad/brightedge-url-crawler.git
    cd brightedge-url-crawler
    ```
 2. Create a virtual environment and activate it:
