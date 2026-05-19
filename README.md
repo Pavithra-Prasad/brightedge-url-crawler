@@ -48,7 +48,7 @@ A service that takes a URL as input, fetches the page, and extracts structured m
 ## Example
 
 ```bash
-curl -X POST http://localhost:8000/extract \
+curl -X POST https://brightedge-crawler-773180407845.us-central1.run.app/extract \
   -H "Content-Type: application/json" \
   -d '{"url": "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai"}'
 ```
