@@ -2,6 +2,14 @@
 
 A service that takes a URL as input, fetches the page, and extracts structured metadata — title, description, body content, Open Graph tags, and language — along with a ranked list of topics/keywords describing what the page is about. Topic extraction uses unsupervised statistical analysis (YAKE), requiring no pre-trained models or external APIs.
 
+## Assignment Deliverables
+
+This repository contains all three parts of the BrightEdge Engineering assignment:
+
+- **Part 1: Working service** — Source code in `app/`, deployed live (see Live Demo above), with full API documentation in this README
+- **Part 2: Production design** — See `DESIGN.md` for the architecture, storage, schema, SLOs/SLAs, monitoring, cost analysis, and reliability strategy at billion-URL scale
+- **Part 3: PoC plan** — See `POC_PLAN.md` for the phased rollout plan, blockers, release strategy, and success criteria
+
 ## Live Demo
 
 - **API**: `https://brightedge-crawler-773180407845.us-central1.run.app`
